@@ -1,7 +1,10 @@
 import React from 'react';
+import NavigationBar  from '../../Components/Headers/header.js'
 
 const HomePage = () => (
-    <div>hi</div>
+    <div>
+        <NavigationBar />
+    </div>
 )
 
 export default HomePage;
