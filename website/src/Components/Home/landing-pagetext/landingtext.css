@@ -9,5 +9,26 @@
 }
 .text h1,h3{
     font-size: 4rem;
-    text-shadow: 3rem;
+    display: block;
+    text-align: center;
+    letter-spacing: 5px;
+    animation: moveInLeft 1s ease-out;
+    /* animation-name: moveInLeft;
+    animation-duration: 1s;
+    animation-timing-function: ease-out; */
+    /* animation-iteration-count: 3;
+    animation-delay: 3s; */
+}
+@keyframes moveInLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px) 
+    }
+    80%{
+        transform: translateX(10px);
+    }
+    100%{
+        opacity: 1;
+        transform: translate(0);
+    }
 }
