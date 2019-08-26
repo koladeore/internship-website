@@ -1,0 +1,13 @@
+/* .landing{
+    overflow-x: hidden;
+} */
+
+.home-inner{
+    position: relative;
+    background-image: linear-gradient(to right, rgba(165, 55, 253, 0.5) 0%, rgba(229,178,202,0.7) 100%), url("../../images/bible_image.jpg");
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    margin: auto;
+    min-height: 100vh;
+}

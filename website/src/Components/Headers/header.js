@@ -1,6 +1,7 @@
 import React from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import image from '../images/logo_church.jpg';
 
 import './headers.css';
 
@@ -10,7 +11,7 @@ const NavigationBar = () => (
     <Link to = "/">
       LeadersChurch
       <img
-      src="./images/logo_church.jpg"
+      src={ image }
       width="40"
       height="35"
       className="d-inline-block align-top"

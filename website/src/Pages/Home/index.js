@@ -1,9 +1,9 @@
 import React from 'react';
-import NavigationBar  from '../../Components/Headers/header.js'
+import Home  from '../../Components/Home/index.js'
 
 const HomePage = () => (
     <div>
-        <NavigationBar />
+        <Home />
     </div>
 )
 
