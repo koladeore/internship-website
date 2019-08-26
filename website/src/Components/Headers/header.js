@@ -9,7 +9,7 @@ const NavigationBar = () => (
   <Navbar collapseOnSelect expand="lg" bg="dark" className="navbar" fixed-top>
   <Navbar.Brand>
     <Link to = "/">
-      LeadersChurch
+      Leaders Church
       <img
       src={ image }
       width="40"
@@ -24,7 +24,7 @@ const NavigationBar = () => (
     <Nav className="nav ml-auto" id="header">
       <Nav>
         <Link to = "/">
-          HOME
+          Home
         </Link>       
       </Nav>
       <Nav>

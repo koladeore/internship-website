@@ -1,0 +1,11 @@
+.sunday {
+    color: #ffffff;
+    background: #A457BF;
+    opacity: 0.9;
+}
+.sunday h1, h3{
+    font-size: 2rem;
+    display: block;
+    text-align: center;
+    letter-spacing: 2px;
+} 

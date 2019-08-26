@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NavigationBar from "../Headers/header.js";
 import LandingPage from "./landing-page/landing.js";
 import LandingText from "./landing-pagetext/landingtext.js";
+import TimeUnit from "./time_unit/time_unit.js";
 
 class Home extends Component {
   render() {
@@ -10,6 +11,7 @@ class Home extends Component {
             <NavigationBar />
             <LandingPage />
             <LandingText />
+            <TimeUnit />
         </div>
     );
   }
