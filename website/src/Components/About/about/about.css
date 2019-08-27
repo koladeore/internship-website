@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+.img{ 
+    padding: 20px;
+}
+.image{
+    background-image: linear-gradient(to right, rgba(165, 55, 253, 0.5) 0%, rgba(229,178,202,0.7) 100%);
+    padding: 30px;
+    width: 600px;
+    height: 80vh;
+}
+.text-image{
+    font-family: 'Lato', sans-serif;
+    color: #A457BF;
+}
+.text-image h1{
+    font-size: 3rem;
+    display: block;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.text-image p{
+    font-size: 2rem;
+    display: block;
+} 
+
+@media (max-width: 600px) {
+    .image{
+        width: 400px;
+    }
+}
