@@ -1,10 +1,8 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import About from '../../Components/About/index.js';
 
 const AboutPage = () => (
-    <Container>
-        <div>about</div>
-    </Container>
+    <About />
 );
 
 export default AboutPage;

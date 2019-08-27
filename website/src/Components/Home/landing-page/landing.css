@@ -1,6 +1,10 @@
 /* .landing{
     overflow-x: hidden;
 } */
+body{
+    padding: 0;
+    margin: 0;
+}
 
 .home-inner{
     position: relative;

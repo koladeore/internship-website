@@ -32,6 +32,11 @@ const NavigationBar = () => (
           About
         </Link>  
       </Nav>
+      <Nav>
+        <Link to = "/contact">
+          Contact
+        </Link>  
+      </Nav>
     </Nav>
   </Navbar.Collapse>
 </Navbar>

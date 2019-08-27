@@ -4,7 +4,7 @@ import LandingPage from "./landing-page/landing.js";
 import LandingText from "./landing-pagetext/landingtext.js";
 import TimeUnit from "./time_unit/time_unit.js";
 
-class Home extends Component {
+class About extends Component {
   render() {
     return (
         <div>
@@ -17,4 +17,4 @@ class Home extends Component {
   }
 }
 
-export default Home;
+export default About;

@@ -4,9 +4,7 @@ import './landing.css';
 const LandingPage = () => {
     return(
         <div className="landing">
-            <div className="homewrap">
-                <div className="home-inner">
-                </div>
+            <div className="home-inner">
             </div>
         </div>
     );
