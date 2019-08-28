@@ -1,5 +1,5 @@
 ## Installations
-
+CLICK: /koladeore/internship-website/tree/develop/website/src/
 ### Getting started
 
 * You need to have Node and NPM installed on your computer.
