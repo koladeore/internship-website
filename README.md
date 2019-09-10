@@ -1,3 +1,5 @@
+simple project with react
+https://internship-website.herokuapp.com
 ## Installations
 CLICK: /koladeore/internship-website/tree/develop/website/src/
 ### Getting started
